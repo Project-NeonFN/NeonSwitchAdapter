@@ -1,4 +1,4 @@
-#include <switch.h.
+#include <switch.h>
 
 int Keychain(int argc, int argv[])
 {
